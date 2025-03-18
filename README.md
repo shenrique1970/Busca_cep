@@ -1,6 +1,6 @@
-* Busca cep
+# Busca cep
 
-** Usando tecnologias.
+## Usando tecnologias.
 
 - HTML.
 - CSS.
